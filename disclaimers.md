@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Disclaimers
+permalink: /disclaimers/
 ---
 The opinions expressed here are my own and are not necessarily shared by any other organization or any other individual. THE MATERIALS ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON—INFRINGEMENT. The Materials are subject to change without notice and do not represent a commitment on the part of this blog.
 
