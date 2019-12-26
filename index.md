@@ -4,4 +4,4 @@
 - Containers
 - Clouds
 <p/>
-[Contact us](mailto:support@nextruby.com)
+[Contact support@nextruby.com](mailto:support@nextruby.com)
