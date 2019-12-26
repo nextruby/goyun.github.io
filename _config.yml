@@ -10,3 +10,5 @@ github_username:  i88ca
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
