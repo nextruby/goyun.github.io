@@ -2,3 +2,4 @@
 - MySQL service
 - Email Service
 - Containers
+- Clouds
