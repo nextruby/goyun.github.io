@@ -1,8 +1,8 @@
 # Site settings
-title: NextRuby.com
-email: admin@nextruby.com
+title: NextRuby
+email: support@nextruby.com
 description: > # this means to ignore newlines until "baseurl:"
-  IT information, news, tutorials, examples, documentation, career
+  Consulting Services
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nextruby.com" # the base hostname & protocol for your site
 twitter_username: i88ca
