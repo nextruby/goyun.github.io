@@ -6,7 +6,7 @@ next
 Jumps to the next iteration of the most internal loop. Terminates execution of a block if called within a block (with yield or call returning nil).
 Example
 
-
+```ruby
 #!/usr/bin/ruby
 
 for i in 0..8
@@ -15,6 +15,7 @@ for i in 0..8
    end
    puts "Value of local variable is #{i}"
 end
+```
 
 This will produce the following result −
 
