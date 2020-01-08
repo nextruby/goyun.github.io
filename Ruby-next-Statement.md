@@ -18,7 +18,7 @@ end
 ```
 
 This will produce the following result −
-
+```
 Value of local variable is 2
 Value of local variable is 3
 Value of local variable is 4
@@ -26,3 +26,4 @@ Value of local variable is 5
 Value of local variable is 6
 Value of local variable is 7
 Value of local variable is 8
+```
