@@ -8,5 +8,5 @@
 - Containers
 - Clouds
 <p/>
-[Contact support@nextruby.com](mailto:support@nextruby.com)
+Contact <support@nextruby.com>
 </body>
