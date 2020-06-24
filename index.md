@@ -1,12 +1,12 @@
 <body>
-*Devops
-*MySQL service
--Email Service
--Containers
--Clouds
-- Domain Names
-- Hosting
-- Email
+* Devops
+* MySQL service
+- Email Service
+- Containers
+- Clouds
++ Domain Names
++ Hosting
++ Email
 - SSL Certificates
 - Domain Privacy
 - Website Creation
