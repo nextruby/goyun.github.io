@@ -1,9 +1,9 @@
 <body>
-- Devops
-- MySQL service
-- Email Service
-- Containers
-- Clouds
+*Devops
+*MySQL service
+-Email Service
+-Containers
+-Clouds
 - Domain Names
 - Hosting
 - Email
