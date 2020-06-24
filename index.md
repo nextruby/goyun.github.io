@@ -1,4 +1,3 @@
-<body>
 * Devops
 * MySQL service
 - Email Service
@@ -14,4 +13,4 @@
 - Mobile Websites
 <p/>
   Contact support@nextruby.com
-</body>
+
